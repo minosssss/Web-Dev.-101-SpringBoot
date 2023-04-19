@@ -23,7 +23,7 @@ public class TodoEntity {
     @GenericGenerator(name = "system-uuid",strategy = "uuid")
     private String id;      // Key
     private String userId;  // 생성한 ID
-    private String title;   // Todo 타이블
+    private String title;   // Todo 타이틀
     private boolean done;   // Todo 체크
 
 
