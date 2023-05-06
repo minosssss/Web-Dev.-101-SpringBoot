@@ -36,3 +36,5 @@ out/
 ### VS Code ###
 .vscode/
 react-workspace/todo-react-app/
+src/main/resources/application.properties
+*.properties
